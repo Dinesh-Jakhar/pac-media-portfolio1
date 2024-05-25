@@ -4583,7 +4583,7 @@ body {
     max-width: 860px;
   }
   .mob-frame-2 {
-    transform: rotate(2deg) translateY(10px);
+    transform: rotate(2deg) translateY(-1px);
   }
   .mob-bottom-likes p {
     font-size: 16px;
